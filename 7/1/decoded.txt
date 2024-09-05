@@ -1,0 +1,5 @@
+decoded text : 
+𐎟ABC A𐎟BA 𐎟ABC
+AAB𐎟 A𐎟BA ABC𐎟
+BC𐎟A ABC𐎟 ABC𐎟
+
